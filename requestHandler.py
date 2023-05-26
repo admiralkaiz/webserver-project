@@ -1,3 +1,12 @@
+#!/usr/bin/python
+
+##################################################
+# Filename: requestHandler.py                    #
+##################################################
+# File ini adalah file untuk melakukan handle    #
+# terhadap request yang diberikan klien          #
+##################################################
+
 import requestParse
 import createResponse
 import showFile
